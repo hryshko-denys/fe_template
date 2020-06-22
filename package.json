@@ -16,6 +16,7 @@
   "author": "hryshko-denys",
   "license": "ISC",
   "devDependencies": {
+    "node-sass": "^4.14.1",
     "parcel": "^1.12.4"
   }
 }
